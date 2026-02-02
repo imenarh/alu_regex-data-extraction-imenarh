@@ -1,4 +1,4 @@
-# regex-onboarding
+# Formative One - Regex Onboarding Hackathon
 
 This project is a Javascript regex-based program that can:
 
