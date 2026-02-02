@@ -1,0 +1,62 @@
+Subject: Customer Feedback & Incident Report – Jan 2026
+
+Hi Support Team,
+
+I’m writing regarding several issues we observed after integrating the external API
+into our frontend pipeline last week.
+
+Primary contact emails:
+- John.Doe@Example.com
+- support@company.co.uk
+- SALES@my-startup.IO
+- invalid..email@domain.com
+- admin@@evil.com
+- <script>@hacker.net
+
+Backup contact:
+helpdesk@sub.example.org
+
+URLs referenced in user reports:
+https://www.example.com
+https://subdomain.example.org/page?id=42&ref=api
+http://legacy-system.net
+www.missing-protocol.com
+javascript:alert('XSS')
+https://example.com/<script>alert(1)</script>
+
+Phone numbers submitted by users:
++250734567890 
+0784567890 
++250788234567 
++250784567890 
++250784567890 
+07834567890 
+
+Marketing hashtags from social media scrape:
+#LaunchDay
+#ThisIsAHashtag
+#frontend_dev
+#123NotValid
+#<script>
+#Summer2026
+
+Pricing information extracted from promotions:
+$19.99
+$1,234.56
+$100
+$0.99
+$12,34.56
+USD 45.00
+$999999999999
+
+Notes:
+Some users tried submitting malicious payloads such as:
+<script>alert('owned')</script>
+<img src="x" onerror="alert(1)">
+<a href="javascript:alert('XSS')">Click me</a>
+
+Please ensure that only well-formed, safe data is processed and logged.
+Sensitive information must not be exposed in plain text.
+
+Regards,
+API Integration Team
