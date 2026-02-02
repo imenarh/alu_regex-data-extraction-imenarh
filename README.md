@@ -39,4 +39,4 @@ node extract.js sample_input.txt
 
 I enlisted ChatGPT to understand the project and generate the the [sample test input](./sample-input.txt). 
 
-You can check the conversation at [`chatGPT`](https://chatgpt.com/share/69810e94-e048-8000-b260-f4a5b2170303)
+You can check the conversation following this [Link](https://chatgpt.com/share/69810e94-e048-8000-b260-f4a5b2170303)
